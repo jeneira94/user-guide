@@ -1,5 +1,5 @@
 # User Guide
-<>
+https://pintaproject.github.io/user-guide/
 
 ## Setting Up MkDocs
 Click on the following link to help get the environment started on your computer:
@@ -9,7 +9,7 @@ Once you have installed the necessary packages and fully setup the environment, 
 
 ## Deploying "Site" Contents
 
-The documentation site that you just built only uses static files so you'll be able to host it from pretty much anywhere. Upload the contents of the entire `site` directory after you have built the site to wherever you're setting as your local repository. Specific instructions will be posted soon.
+The documentation site that you just built only uses static files so you'll be able to host it from pretty much anywhere. Upload the contents of the entire `\site` directory after you have built the site to wherever you're setting as your local repository. Specific instructions will be posted soon.
 
 ## Modifying CSS
 You can customize the css/theme.css file to change the look of the site. It is recommended for the purposes of Pinta Pals, to change the navigation heading color. This helps to make the color pop out instead of the current grey color that dulls the look of the navigation.
